@@ -1,0 +1,10 @@
+# Ignore virtual environment
+venv/
+
+# Ignore cache files
+__pycache__/
+
+# Ignore secrets
+.env
+notes.txt
+
